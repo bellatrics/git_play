@@ -11,3 +11,5 @@ some more lines for happiness
 
 
 after merge addition
+
+__second_feature__
